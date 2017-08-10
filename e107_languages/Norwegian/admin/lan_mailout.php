@@ -126,7 +126,6 @@ define("LAN_MAILOUT_129", "Utløpsdato");
 define("LAN_MAILOUT_130", "Opprettelsesdato");
 define("LAN_MAILOUT_131", "Sende startet");
 define("LAN_MAILOUT_132", "Sending fullført");
-define("LAN_MAILOUT_133", "Kilde");
 define("LAN_MAILOUT_134", "Prioritet");
 define("LAN_MAILOUT_136", "Utsendelses Status");
 define("LAN_MAILOUT_137", "E Ref");
@@ -259,6 +258,8 @@ define("LAN_MAILOUT_266", "Maks. aktive");
 define("LAN_MAILOUT_267", "Generer offentlig/privat nøkler");
 define("LAN_MAILOUT_268", "Kun utvikler modus");
 define("LAN_MAILOUT_269", "Send senere");
+define("LAN_MAILOUT_270", "Test SMTP-tilkobling");
+define("LAN_MAILOUT_271", "Autentisering mislyktes med brukernavn ([x]) og passord ([y]):");
 
 
 ?>

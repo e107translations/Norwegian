@@ -9,7 +9,6 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("BANLAN_2", "Ingen forbud i listen.");
 define("BANLAN_3", "Eksisterende forbud");
 define("BANLAN_5", "Angi IP, e-postadresse eller vert");
@@ -123,6 +122,7 @@ define("BANLAN_122", "Svarteliste");
 define("BANLAN_123", "Legg til i svarteliste");
 define("BANLAN_124", "Utløper");
 define("BANLAN_125", "Bruk meg IP");
+define("BANLAN_126", "IP / E-post");
 
 
 ?>

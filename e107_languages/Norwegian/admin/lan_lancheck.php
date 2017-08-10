@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_CHECK_2", "Kontroller");
 define("LAN_CHECK_3", "Verifikasjon av");
 define("LAN_CHECK_4", "Fil mangler!");
@@ -26,6 +25,10 @@ define("LAN_CHECK_26", "Foran");
 define("LAN_CHECK_PAGE_TITLE", "Språk");
 define("LAN_CHECK_27", "Antall språkpakker feil funnet");
 define("LAN_CHECK_28", "Identisk");
+define("LAN_CHECK_29", "Identisk streng (kun advarsel)");
+define("LAN_CHECK_30", "Mangler bbcodes");
+define("LAN_CHECK_31", "Mangler [ og/eller ] karakter (er)");
+define("LAN_CHECK_32", "Mangler HTML-koder");
 define("LANG_LAN_23", "Opprette språkpakker (zip)");
 define("LANG_LAN_30", "Utgivelsesdato");
 define("LANG_LAN_31", "Kompatibilitet");

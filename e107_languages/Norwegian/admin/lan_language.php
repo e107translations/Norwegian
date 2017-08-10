@@ -63,6 +63,8 @@ define("LANG_LAN_144", "Må reaktiveres");
 define("LANG_LAN_148", "Normal modus");
 define("LANG_LAN_149", "Verdi");
 define("LANG_LAN_150", "[b]Søk HELE kjernen før du kommenterer ut NOEN LAN fra alle språkfiler.[/b]");
+define("LANG_LAN_151", "Tilgjengelige");
+define("LANG_LAN_152", "Rettferdighet av  [e107 oversettings lag]");
 
 
 ?>

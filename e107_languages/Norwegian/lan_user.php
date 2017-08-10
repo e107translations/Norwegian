@@ -88,6 +88,12 @@ define("LAN_XUP_ERRM_03", "Innlogging feilet! Feil leverandør.");
 define("LAN_XUP_ERRM_04", "Påmelding feilet! Bruker er allerede logget på.");
 define("LAN_XUP_ERRM_05", "Påmelding feilet! Brukeren finnes allerede. Vennligst bruk 'logg inn' i stedet.");
 define("LAN_XUP_ERRM_06", "Påmelding feilet! Får ikke tilgang til bruker e-post - registrering uten en e-post er umulig.");
+define("LAN_XUP_ERRM_07", "Sosial påloggings tester");
+define("LAN_XUP_ERRM_08", "Vennligst logg ut fra e107 før du tester innloggingsprosedyren for ny bruker.");
+define("LAN_XUP_ERRM_09", "Test kun innlogging med [x]");
+define("LAN_XUP_ERRM_10", "Test påmelding/logg inn med [x]");
+define("LAN_XUP_ERRM_11", "Logget inn:");
+define("LAN_XUP_ERRM_12", "Test logg ut");
 
 
 ?>

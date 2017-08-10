@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/04/23 21:38:16
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Statistikk");
 define("ADSTAT_L1", "Dette programtillegget vil logge alle besøk til nettstedet ditt, og bygge detaljert statistikken skjermer basert på informasjon.");
@@ -56,7 +62,7 @@ define("ADSTAT_L49", "sortere alfabetisk");
 define("ADSTAT_L50", "All-time statistikk");
 define("ADSTAT_L51", "Gjeldende måned statistikk");
 define("ADSTAT_L52", "Forrige måned statistikk");
-define("ADSTAT_L53", "");
+define("ADSTAT_L53", "Informasjon");
 define("ADSTAT_L54", "");
 define("ADSTAT_L55", "");
 define("ADSTAT_L56", "");
@@ -64,3 +70,6 @@ define("ADSTAT_L57", "");
 define("ADSTAT_L58", "");
 define("ADSTAT_L59", "");
 define("ADSTAT_L60", "");
+
+
+?>

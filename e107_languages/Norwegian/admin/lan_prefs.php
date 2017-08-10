@@ -256,6 +256,7 @@ define("PRFLAN_272", "Sesjonens levetid");
 define("PRFLAN_273", "Levetid i sekunder. 0 = inntil nettleseren lukkes.");
 define("PRFLAN_274", "Kontaktskjema vil kun være synlig for denne brukerklasse gruppen.");
 define("PRFLAN_275", "Se denne siden ved hjelp av https (SSL) for å endre dette valget");
+define("PRFLAN_276", "PHP Standard (Foretrukket)");
 
 
 ?>

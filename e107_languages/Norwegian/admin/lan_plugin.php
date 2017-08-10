@@ -248,6 +248,7 @@ define("EPL_ADLAN_243", "Oppdaterer innstilling:");
 define("EPL_ADLAN_244", "Bare 5 media kategorier er tillatt under innstallering.");
 define("EPL_ADLAN_245", "Legger til media kategori: [x]");
 define("EPL_ADLAN_246", "Sletter alle media kategorier eid av: [x]");
+define("EPL_ADLAN_247", "Oppdateringer som skal installeres");
 define("EPL_ADLAN_249", "Legger til utvidet felt:");
 define("EPL_ADLAN_250", "Fjerner utvidet felt:");
 define("EPL_ADLAN_251", "Utvidet felt igjen på plass:");

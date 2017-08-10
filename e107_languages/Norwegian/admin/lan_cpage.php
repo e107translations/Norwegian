@@ -9,7 +9,11 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
+define("CUSLAN_1", "Oversikt");
+define("CUSLAN_2", "Side tittel");
+define("CUSLAN_3", "Elementer per side");
+define("CUSLAN_4", "Egendefinerte felt");
+define("CUSLAN_5", "(Ny bok)");
 define("CUSLAN_9", "Tekst");
 define("CUSLAN_11", "Metabeskrivelse");
 define("CUSLAN_12", "Opprette siden/meny");

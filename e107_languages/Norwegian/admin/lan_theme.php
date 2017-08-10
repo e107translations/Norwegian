@@ -110,6 +110,8 @@ define("TPVLAN_88", "Konverter");
 define("TPVLAN_89", "Påfør dashbord preferanser til alle administratorer");
 define("TPVLAN_91", "Opprett et nytt tema basert på");
 define("TPVLAN_92", "Ny Tema Folder");
+define("TPVLAN_93", "Utvalg");
+define("TPVLAN_94", "Nettstedstema endret til [x].");
 
 
 ?>

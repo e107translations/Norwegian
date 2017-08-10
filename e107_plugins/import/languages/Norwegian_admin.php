@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2017/04/23 21:53:45
+|
+|        $Author: Norwayman $
++---------------------------------------------------------------+
+*/
 
 define("LAN_CONVERT_03", "Du må starte med en ren E107 database enn viktigste admin brukeren (ID = 1)");
 define("LAN_CONVERT_04", "Felt stå tomt, gå tilbake og angi verdiene på nytt.");
@@ -58,3 +64,24 @@ define("LAN_CONVERT_53", "Base URL av Drupal nettsted (f.eks http://mydrupalsite
 define("LAN_CONVERT_54", "Drupal Basiswebadressen");
 define("LAN_CONVERT_55", "Base URL-banen (dvs. directory) av Drupal installasjonen (f.eks/drupal /).");
 define("LAN_CONVERT_56", "Drupal basisbanen");
+define("LAN_CONVERT_57", "Ingen feilmelding");
+define("LAN_CONVERT_58", "Kan ikke endre data for hovedadministrator");
+define("LAN_CONVERT_59", "Ugyldig felt levert");
+define("LAN_CONVERT_60", "Obligatorisk felt ikke angitt");
+define("LAN_CONVERT_61", "Brukeren eksisterer allerede");
+define("LAN_CONVERT_62", "Ugyldige tegn i bruker- eller påloggingsnavn");
+define("LAN_CONVERT_63", "Feil ved lagring av utvidede brukerfelt");
+define("LAN_CONVERT_64", "Velg");
+define("LAN_CONVERT_65", "Sider");
+define("LAN_CONVERT_66", "Side kapitler");
+define("LAN_CONVERT_67", "Lenker");
+define("LAN_CONVERT_68", "Media");
+define("LAN_CONVERT_69", "Forum");
+define("LAN_CONVERT_70", "Forum Temaer/Tråder");
+define("LAN_CONVERT_71", "Forum poster");
+define("LAN_CONVERT_72", "Forumsporing");
+define("LAN_CONVERT_73", "Brukerklasser");
+define("LAN_CONVERT_74", "Nyhetskategorier");
+
+
+?>

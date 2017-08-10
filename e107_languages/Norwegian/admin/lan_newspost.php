@@ -139,7 +139,7 @@ define("LAN_NEWS_102", "Åpne i ny fane");
 define("LAN_NEWS_103", "E-postvarsling");
 define("LAN_NEWS_104", "Utløs en e-post når du sender inn dette skjemaet.");
 define("LAN_NEWS_105", "E-postvarsling utløst!");
-define("LAN_NEWS_106", "Nyhet synlighet må inkludere "alle" for at e-postmeldinger skal fungere.");
+define("LAN_NEWS_106", "Nyhet synlighet må inkludere 'alle' for at e-postmeldinger skal fungere.");
 define("LAN_NEWS_107", "Kontrollerer for Ping Status");
 define("LAN_NEWS_108", "SEF URL er i forskjellig fra til tittelen på nyheten.");
 define("LAN_NEWS_109", "Utløse en e-post når du sender inn dette skjemaet.");

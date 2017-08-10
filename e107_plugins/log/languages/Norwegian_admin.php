@@ -88,6 +88,11 @@ define("ADSTAT_LAN_83", "Følgende logg ID oppføringer fjernet:");
 define("ADSTAT_LAN_84", "Denne fremgangsmåten vil overskrive logg statististikk oversikter i databasen. (Rå loggfiler forblir uendret) Når erstattet, kan dataene ikke gjenopprettes . Vennligst backup eller eksportere databasen din først");
 define("ADSTAT_LAN_85", "[X] loggfiler har blitt funnet. Klikk på knappen under for å behandle disse filene.");
 define("ADSTAT_LAN_86", "Treff totalt");
+define("ADSTAT_LAN_87", "Gjenoppbygg statistiske oppsummeringer");
+define("ADSTAT_LAN_88", "Gjenoppbygg statistikk");
+define("ADSTAT_LAN_89", "Gjenoppbygg");
+define("ADSTAT_LAN_90", "Data lagret til database med id: [x]");
+define("ADSTAT_LAN_91", "Kunne ikke lagre data til database med id: [x]");
 
 
 ?>

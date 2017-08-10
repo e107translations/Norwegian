@@ -181,6 +181,8 @@ define("IMALAN_176", "Det var et problem å ta tak i filen");
 define("IMALAN_177", "Klikk her for mer informasjon og for å angi API-nøkkel");
 define("IMALAN_178", "Avatars Mappe (velges av brukeren)");
 define("IMALAN_179", "Avatars Mappe (privat)");
+define("IMALAN_180", "0 byte fil funnet i:");
+define("IMALAN_181", "Vennligst fjern før du fortsetter.");
 
 
 ?>
