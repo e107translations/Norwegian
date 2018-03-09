@@ -63,7 +63,7 @@ define("LAN_THANK_YOU", "takk");
 define("LAN_CONTINUE", "Fortsett");
 define("LAN_ENTER", "Angi");
 define("LAN_ENTER_CODE", "Angi kode");
-define("LAN_INVALID_CODE", "Feil koden som er angitt.");
+define("LAN_INVALID_CODE", "Feil kode som er angitt.");
 define("LAN_SEARCH", "Søk");
 define("LAN_VIEW", "Vis");
 define("LAN_CLICK_TO_VIEW", "Klikk for å se");
