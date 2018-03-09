@@ -18,7 +18,7 @@ define("CORE_LAN5", "Hvis du ikke er det en potensiell sikkerhetsrisiko for webo
 define("CORE_LAN6", "Flombeskyttelse på dette nettstedet er aktivert og du advart om at hvis du bære på ber om sider kan du bli utestengt.");
 define("CORE_LAN7", "Kjernen prøver å gjenopprette prefs fra automatisk sikkerhetskopiering.");
 define("CORE_LAN8", "Kjernen Prefs feil");
-define("CORE_LAN9", "Kjernen kan ikke gjenopprette fra automatisk sikkerhetskopiering. Utførelsen stoppet.");
+define("CORE_LAN9", "Kjernen kan ikke gjenopprettes fra automatisk sikkerhetskopiering. Utførelsen stoppet.");
 define("CORE_LAN10", "Skadet informasjonskapsel oppdaget - logget ut.");
 define("CORE_LAN11", "Gjengivelse:");
 define("CORE_LAN12", "sek (");
