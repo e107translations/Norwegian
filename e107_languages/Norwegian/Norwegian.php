@@ -12,7 +12,7 @@
 setlocale(LC_ALL,  'no_NO.UTF-8', 'no_NO.utf8', 'no');
 define("CORE_LC", "no");
 define("CORE_LC2", "no");
-define("CORE_LAN1", "Feil: temaet er missing.\\n\\nChange brukte temaene innstillinger (admin område) eller laste opp filer for det gjeldende temaet til serveren.");
+define("CORE_LAN1", "Feil: temaet mangler.\\n\\nEndre brukt tema innstillinger (admin område) eller laste opp filer for det gjeldende temaet til serveren.");
 define("CORE_LAN4", "Slett install.php fra serveren");
 define("CORE_LAN5", "Hvis du ikke er det en potensiell sikkerhetsrisiko for webområdet");
 define("CORE_LAN6", "Flombeskyttelse på dette nettstedet er aktivert og du advart om at hvis du bære på ber om sider kan du bli utestengt.");
