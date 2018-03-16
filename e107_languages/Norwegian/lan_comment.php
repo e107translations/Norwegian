@@ -73,7 +73,7 @@ define("COMLAN_TYPE_7", "ideer");
 define("COMLAN_TYPE_8", "USERPROFILE");
 define("COMLAN_TYPE_PAGE", "Innhold");
 define("COMLAN_500", "Vennligst [logg inn] for å legge igjen en kommentar.");
-define("COMLAN_501", "Hvis du ennå ikke er registrert, kan du [Trykk her for å registrere].");
+define("COMLAN_501", "Hvis du ennå ikke er registrert, kan du [Trykke her for å registrere deg].");
 
 
 ?>
