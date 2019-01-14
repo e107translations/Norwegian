@@ -126,6 +126,6 @@ define("LANINS_141", "Vennligst fyll ut skjemaet nedenfor med dine MySQL detalje
 define("LANINS_142", "VIKTIG: Vennligst endre navn e107.htaccess til .htaccess");
 define("LANINS_144", "VIKTIG: Vennligst kopier og lim inn innholdet i [b] e107.htaccess [/ b] inn i [b] .htaccess [/ b] fil. Vennligst påse å ikke overskrive eksisterende data som kan befinne seg i den.");
 define("LANINS_145", "e107 2.x krever PHP [x] til å bli installert. Ta kontakt med din host eller lese informasjonen på [y] før du fortsetter.");
-
-
+define("LANINS_146", "Admin-area Skin");
+define("LANINS_146", "Administrasjon");
 ?>
