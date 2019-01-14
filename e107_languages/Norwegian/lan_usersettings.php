@@ -7,10 +7,10 @@
 define("PAGE_NAME", "Brukerinnstillinger");
 define("MAX_AVWIDTH", "Maksimal avatar størrelse (wxh)");
 define("MAX_AVHEIGHT", "x");
-define("LAN_USET_1", "Din avatar er for brede");
-define("LAN_USET_2", "Maksimalt bredden tillatte");
+define("LAN_USET_1", "Din avatar er for bred");
+define("LAN_USET_2", "Maksimalt tillatte bredde");
 define("LAN_USET_3", "Din avatar er for høy");
-define("LAN_USET_4", "Maksimalt tillatt høyde er");
+define("LAN_USET_4", "Maksimalt tillatte høyde er");
 define("LAN_USET_7", "Diverse");
 define("LAN_USET_8", "Brukersignatur");
 define("LAN_USET_9", "Noen av de obligatoriske feltene (merket med en *) mangler innstillingene.");
