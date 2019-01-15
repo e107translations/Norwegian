@@ -28,7 +28,5 @@ define("LANDT_08s", "minutter");
 define("LANDT_09", "sekund");
 define("LANDT_09s", "sekunder");
 define("LANDT_AGO", "siden");
+define("LANDT_IN", "I");
 define("LANDT_10", "Akkurat nå");
-
-
-?>

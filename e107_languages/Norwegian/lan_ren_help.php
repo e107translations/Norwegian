@@ -63,6 +63,14 @@ define("LANHELP_51", "Deaktiver HTML nye linjer for teksten: [nobr] tekst [/nobr
 define("LANHELP_52", "Ny linje (HTML): [br]");
 define("LANHELP_53", "Rettferdiggjøre justere: \n [rettferdiggjøre] denne teksten vil bli rettferdiggjort [/ rettferdiggjøre]");
 define("LANHELP_54", "HTML blokk (div tag): [kvartal] innholdet [/block]");
-
-
-?>
+define("LANHELP_55", "Format");
+define("LANHELP_56", "Sett inn Table");
+define("LANHELP_57", "Overskrift");
+define("LANHELP_58", "Blokk");
+define("LANHELP_59", "Quote");
+define("LANHELP_60", "Kode Blokk");
+define("LANHELP_61", "Kode Inline");
+define("LANHELP_62", "Paragraf");
+define("LANHELP_63", "Sett inn et bildefra Media-Manager");
+define("LANHELP_64", "Sett inn en fil fra Media-Manager");
+define("LANHELP_65", "Størrelse");

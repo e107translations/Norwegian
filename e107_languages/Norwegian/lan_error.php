@@ -56,6 +56,7 @@ define("LAN_ERROR_43", "Nettstedet tilgjengelig midlertidig");
 define("LAN_ERROR_44", "Områdelogo");
 define("LAN_ERROR_45", "Hva kan du gjøre nå?");
 define("LAN_ERROR_46", "Sjekk logg for detaljer.");
-
-
-?>
+define("LAN_ERROR_47", "Valideringsfeil: Nyhetstittel kan ikke være tom!");
+define("LAN_ERROR_48", "Valideringsfeil: Nyheter SEF URL verdi er obligatorisk felt og kan ikke være tomt!");
+define("LAN_ERROR_49", "Valideringsfeil: Nyheter SEF URL er unikt felt - nåværende verdi allerede i bruk! Vennligst velg en annen SEF URL-verdi.");
+define("LAN_ERROR_50", "Valideringsfeil: Nyhetskategorien kan ikke være tom!");

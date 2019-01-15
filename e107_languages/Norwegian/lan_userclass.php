@@ -20,8 +20,5 @@ define("UC_LAN_7", "Moderatorene");
 define("UC_LAN_8", "Administratorer og Mods");
 define("UC_LAN_9", "Nye brukere");
 define("UC_LAN_10", "Søkeroboter");
-define("UC_LAN_INVERT", "Ikke - klasse-");
+define("UC_LAN_INVERT", "Ikke  [x]");
 define("UC_LAN_INVERTLABEL", "Alle unntatt...");
-
-
-?>

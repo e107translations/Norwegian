@@ -69,9 +69,9 @@ define("LAN_USER_71", "Signatur:");
 define("LAN_USER_72", "Avatar:");
 define("LAN_USER_73", "valg av innhold/e-post-lister");
 define("LAN_USER_74", "Egendefinert tittel");
-define("LAN_USER_75", "Din - noe - kreves");
+define("LAN_USER_75", "Din [x] er nødvendig");
 define("LAN_USER_76", "Abonnerer på");
-define("LAN_USER_77", "Passordet må være minst - COUNT - tegn.");
+define("LAN_USER_77", "Passordet må være minst  [x] tegn.");
 define("LAN_USER_78", "Minimum");
 define("LAN_USER_79", "tegn");
 define("LAN_USER_80", "navnet som vises på nettstedet");
@@ -80,7 +80,7 @@ define("LAN_USER_82", "navnet du bruker for å logge inn til området");
 define("LAN_USER_83", "Skjul e-postadressen:");
 define("LAN_USER_84", "Dette vil hindre at e-postadressen din vises på nettstedet");
 define("LAN_USER_85", "Hvis du vil endre brukernavn, må du be en administrator");
-define("LAN_USER_86", "Maksimal avatar størrelse er - bredde - x - høyde - piksler");
+define("LAN_USER_86", "Maksimal avatar størrelse er  [x]- x [y] piksler");
 define("LAN_USER_87", "Logg inn for å rangere denne brukeren!");
 define("LAN_XUP_ERRM_01", "Påmelding feilet! Denne funksjonen er deaktivert.");
 define("LAN_XUP_ERRM_02", "Påmelding feilet! Feil leverandør.");
@@ -94,6 +94,3 @@ define("LAN_XUP_ERRM_09", "Test kun innlogging med [x]");
 define("LAN_XUP_ERRM_10", "Test påmelding/logg inn med [x]");
 define("LAN_XUP_ERRM_11", "Logget inn:");
 define("LAN_XUP_ERRM_12", "Test logg ut");
-
-
-?>

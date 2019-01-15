@@ -9,7 +9,6 @@
 |        $Author: Norwayman $
 +---------------------------------------------------------------+
 */
-
 define("LAN_LOGIN_1", "Brukernavn");
 define("LAN_LOGIN_2", "Brukerpassordet");
 define("LAN_LOGIN_3", "Beskyttet server");
@@ -45,6 +44,4 @@ define("LAN_LOGIN_32", "Du ser denne meldingen fordi du er logget inn som hoved 
 define("LAN_LOGIN_33", "[Gå tilbake til hjemmeside]");
 define("LAN_LOGIN_34", "Bruker registrering og/eller innlogging er deaktivert.");
 define("LAN_LOGIN_35", "[Aktiver det]");
-
-
-?>
+define("LAN_LOGIN_36", "E-post til [x] kommer tilbake. Vennligst [bekreft at e-postadressen din er korrekt].");

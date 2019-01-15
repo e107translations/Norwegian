@@ -9,10 +9,9 @@
 |        $Author: Administrador $
 +---------------------------------------------------------------+
 */
-
 define("PAGE_NAME", "Brukeren innlegg");
-define("UP_LAN_0", "Alle innlegg for");
-define("UP_LAN_1", "Alle kommentarer på");
+define("UP_LAN_0", "Alle innlegg for  [x]");
+define("UP_LAN_1", "Alle kommentarer til [x]");
 define("UP_LAN_2", "Tråd");
 define("UP_LAN_3", "Visninger");
 define("UP_LAN_4", "Svar");
@@ -27,6 +26,3 @@ define("UP_LAN_12", "Søk");
 define("UP_LAN_14", "Foruminnlegg");
 define("UP_LAN_15", "Angående");
 define("UP_LAN_16", "IP-adresse");
-
-
-?>

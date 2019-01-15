@@ -103,6 +103,7 @@ define("LAN_FILES", "Filer");
 define("LAN_SIZE", "Størrelse");
 define("LAN_VERSION", "Versjon");
 define("LAN_DOWNLOAD", "Last ned");
+define("LAN_DOWNLOAD_NO_PERMISSION", "Fil ikke funnet eller du har  ikke tilatelse til å laste ned denne filen");
 define("LAN_WEBSITE", "Nettsted");
 define("LAN_COMMENTS", "Kommentarer");
 define("LAN_LOCATION", "Beliggenhet");
@@ -119,6 +120,7 @@ define("LAN_RE_ORDER", "Endre rekkefølgen");
 define("LAN_RELATED", "Relatert");
 define("LAN_CLOSE", "Lukk");
 define("LAN_EXPAND", "Utvid");
+define("LAN_LIST", "List");
 define("LAN_ENTER_USRNAME_EMAIL", "Skriv inn ditt brukernavn eller e-post");
 define("LAN_PWD_REQUIRED", "Passord kreves");
 define("LAN_SHOW", "Vis");
@@ -127,6 +129,3 @@ define("LAN_SUMMARY", "Sammendrag");
 define("LAN_REQUIRED_BLANK", "Obligatoriske felt (er) var tomme.");
 define("LAN_PLEASEWAIT", "Vennligst vent");
 define("LAN_CHOOSE_FILE", "Velg en fil");
-
-
-?>

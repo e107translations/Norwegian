@@ -32,8 +32,8 @@ define("COMLAN_106", "Last ned");
 define("COMLAN_145", "Registrert:");
 define("COMLAN_194", "Gjest");
 define("COMLAN_195", "Registrert medlem");
-define("COMLAN_310", "Kan ikke godta innlegg som dette brukernavnet er registrert - hvis det er brukernavnet Logg bokføre.");
-define("COMLAN_312", "Dupliserte post - ikke kan godta.");
+define("COMLAN_310", "Kan ikke akseptere innlegg siden brukernavnet er registrert - hvis det er brukernavnet ditt, vennligst logg inn for å poste.");
+define("COMLAN_312", "Dupliserte post - umulig å  godta.");
 define("COMLAN_313", "Beliggenhet");
 define("COMLAN_314", "moderat kommentarer");
 define("COMLAN_315", "Tilbakesporinger");
@@ -43,7 +43,7 @@ define("COMLAN_318", "Rediger kommentar");
 define("COMLAN_319", "endret");
 define("COMLAN_320", "Oppdatere kommentar");
 define("COMLAN_321", "her");
-define("COMLAN_322", "kvittere");
+define("COMLAN_322", "å melde seg på");
 define("COMLAN_323", "Feil!");
 define("COMLAN_324", "Emne");
 define("COMLAN_325", "Angående:");
@@ -74,6 +74,3 @@ define("COMLAN_TYPE_8", "USERPROFILE");
 define("COMLAN_TYPE_PAGE", "Innhold");
 define("COMLAN_500", "Vennligst [logg inn] for å legge igjen en kommentar.");
 define("COMLAN_501", "Hvis du ennå ikke er registrert, kan du [Trykke her for å registrere deg].");
-
-
-?>

@@ -1,8 +1,14 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2019/01/14 13:29:37
+|
+|        $Author: Eivind Simensen $
++---------------------------------------------------------------+
+*/
 
 define("PAGE_NAME", "Søk");
 define("LAN_140", "Medlemmer");
@@ -15,7 +21,7 @@ define("LAN_197", "Nedlastinger");
 define("LAN_198", "Ingen treff");
 define("LAN_199", "Søk etter:");
 define("LAN_416", "Du må være logget inn til denne siden");
-define("LAN_417", "Søkeordene må være minst - tegn - tegn.");
+define("LAN_417", "Søkeordene må være minst  [x] tegn.");
 define("LAN_418", "Andre sider");
 define("LAN_SEARCH_1", "Sjekk alle");
 define("LAN_SEARCH_2", "Fjern alle");

@@ -1,16 +1,21 @@
 <?php
-
-// Bing-Translated Language file 
-// Generated for e107 v2.x by the Multi-Language Plugin
-// https://github.com/e107inc/multilan
-
+/*
++---------------------------------------------------------------+
+|        e107 website content management system Norwegian Language File
+|        Released under the terms and conditions of the
+|        GNU General Public License (http://gnu.org).
+|        Last Modified: 2019/01/14 13:21:31
+|
+|        $Author: Eivind Simensen $
++---------------------------------------------------------------+
+*/
 define("PAGE_NAME", "Brukerinnstillinger");
 define("MAX_AVWIDTH", "Maksimal avatar størrelse (wxh)");
 define("MAX_AVHEIGHT", "x");
-define("LAN_USET_1", "Din avatar er for bred");
-define("LAN_USET_2", "Maksimalt tillatte bredde");
+define("LAN_USET_1", "Din avatar er for brede");
+define("LAN_USET_2", "Maksimalt bredden tillatte");
 define("LAN_USET_3", "Din avatar er for høy");
-define("LAN_USET_4", "Maksimalt tillatte høyde er");
+define("LAN_USET_4", "Maksimalt tillatt høyde er");
 define("LAN_USET_7", "Diverse");
 define("LAN_USET_8", "Brukersignatur");
 define("LAN_USET_9", "Noen av de obligatoriske feltene (merket med en *) mangler innstillingene.");
@@ -22,10 +27,9 @@ define("LAN_USET_14", "Påloggingsnavn for lang. Velg et annet");
 define("LAN_USET_15", "Visningsnavn er for lang. Velg et annet");
 define("LAN_USET_16", "Kryss slette bilde uten opplasting en");
 define("LAN_USET_17", "Visningsnavnet er allerede brukt. Velg et annet");
-define("LAN_USET_18", "Brukerdata endret av admin: - ID-, påloggingsnavn:--LOGGNAVN--");
+define("LAN_USET_18", "Brukerdata endret av admin: [x] , påloggingsnavn: [y]");
 define("LAN_USET_20", "Du må også endre brukerens passord hvis du endrer logikk navnet eller e-postadressen");
 define("LAN_USET_21", "Vennligst Bekreft endringene ved å skrive inn passordet:");
-define("LAN_USET_22", "Ugyldig passord!");
 define("LAN_USET_23", "Vil beholde eksisterende passord");
 define("LAN_USET_24", "Nytt passord:");
 define("LAN_USET_25", "Gjenta nytt passord:");
@@ -77,3 +81,10 @@ define("LAN_435", "XML-Brukerprotokoll fil");
 define("LAN_CUSTOMTITLE", "Egendefinert tittel");
 define("LAN_USET_5", "Abonnerer på");
 define("LAN_USET_6", "Abonner på vår mailingliste-liste (r) og/eller deler av dette nettstedet.");
+define("LAN_USET_50", "Slette Konto");
+define("LAN_USET_51", "Er du sikker? Denne prosedyren kan ikke reverseres! Når du er ferdig, vil din konto og eventuelle personlige data du har skrevet inn på dette nettstedet, gå tapt, og du vil ikke lenger kunne logge inn.");
+define("LAN_USET_52", "En bekreftelses e-post er sendt til [x]. Vennligst klikk på lenken i e-postmeldingen for å slette kontoen din permanent.");
+define("LAN_USET_53", "Bekreftelse av kontofjerning");
+define("LAN_USET_54", "Bekreftelses e-post sendt");
+define("LAN_USET_55", "Vennligst klikk på følgende lenke for å fullføre slettingen av kontoen din.");
+define("LAN_USET_56", "Din konto er slettet.");

@@ -4,8 +4,8 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("NT_LAN_US_1", "Bruker registrering");
-define("NT_LAN_UV_1", "Bruker registrering bekreftet");
+define("NT_LAN_US_1", "Brukeren registrering");
+define("NT_LAN_UV_1", "Brukeren registrering bekreftet");
 define("NT_LAN_UV_2", "Bruker-ID:");
 define("NT_LAN_UV_3", "Logg inn brukernavn:");
 define("NT_LAN_UV_4", "Bruker IP:");

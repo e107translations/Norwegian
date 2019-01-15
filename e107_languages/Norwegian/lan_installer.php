@@ -29,9 +29,7 @@ define("LANINS_019", "Versjonen av PHP installert på serveren ikke kan kjøre e
 define("LANINS_021", "2");
 define("LANINS_022", "MySQL-Server detaljer");
 define("LANINS_023", "Angi MySQL innstillingene her.
-
 Hvis du har root-tilgang kan du opprette en ny database ved å krysse boksen hvis ikke du må opprette en database eller bruke en eksisterende.
-
 Hvis du har bare én database bruker et prefiks slik at andre skript kan dele samme database.
 Hvis du ikke vet kontakte MySQL detaljene webverten.");
 define("LANINS_024", "MySQL Server:");
@@ -65,19 +63,15 @@ define("LANINS_052", "Ikke installert");
 define("LANINS_055", "Installere bekreftelse");
 define("LANINS_056", "6");
 define("LANINS_057", "e107 har nå all informasjon den trenger for å fullføre installasjonen.
-
 Klikk for å opprette databasen og lagre alle innstillingene.");
 define("LANINS_058", "7");
 define("LANINS_060", "Kan ikke lese sql datafile Vennligst sikre filen [b]core_sql.php[/b] finnes i [b] e107_core/sql [/ b] mappen.");
 define("LANINS_061", "e107 kunne ikke opprette alle de nødvendige database-tabellene.
 Vennligst Fjern databasen og korrigere eventuelle problemer før du prøver igjen.");
 define("LANINS_069", "e107 er installert!
-
 Av sikkerhetsgrunner bør du nå angi filtillatelsene på filen [b]e107_config.php[/b] tilbake til 644.
-
 Også må slette install.php fra serveren etter at du har klikket på knappen nedenfor.");
 define("LANINS_070", "e107 kunne ikke lagre viktigste konfigurasjonsfilen til serveren.
-
 Kontroller filen [b]e107_config.php[/b] har de riktige tilgangsrettighetene");
 define("LANINS_071", "Installasjon fullført");
 define("LANINS_072", "Admin brukernavn");
@@ -127,5 +121,5 @@ define("LANINS_142", "VIKTIG: Vennligst endre navn e107.htaccess til .htaccess")
 define("LANINS_144", "VIKTIG: Vennligst kopier og lim inn innholdet i [b] e107.htaccess [/ b] inn i [b] .htaccess [/ b] fil. Vennligst påse å ikke overskrive eksisterende data som kan befinne seg i den.");
 define("LANINS_145", "e107 2.x krever PHP [x] til å bli installert. Ta kontakt med din host eller lese informasjonen på [y] før du fortsetter.");
 define("LANINS_146", "Admin-area Skin");
-define("LANINS_146", "Administrasjon");
+define("LANINS_147", "Administrasjon");
 ?>
