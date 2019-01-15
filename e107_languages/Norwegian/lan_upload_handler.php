@@ -7,7 +7,7 @@
 define("LANUPLOAD_1", "Filtypen");
 define("LANUPLOAD_2", "er ikke tillatt og har blitt slettet.");
 define("LANUPLOAD_3", "Lastet");
-define("LANUPLOAD_4", "Enten målmappen finnes ikke eller er ikke skrivbar. (chmod 777)");
+define("LANUPLOAD_4", "Enten målmappen finnes ikke eller er ikke skrivbar. (chmod 755)");
 define("LANUPLOAD_5", "Den opplastede filen overskrider upload_max_filesize direktivet i php.ini.");
 define("LANUPLOAD_6", "Den opplastede filen overskrider direktivet MAX_FILE_SIZE som ble angitt i html-skjemaet.");
 define("LANUPLOAD_7", "Den opplastede filen var bare delvis lastet.");
