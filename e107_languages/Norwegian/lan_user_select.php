@@ -1,6 +1,6 @@
 <?php
 
-// Bing-Translated Language file 
+// Overasatt av Eivind Simensen
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
