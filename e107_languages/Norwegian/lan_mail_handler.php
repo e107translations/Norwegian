@@ -4,7 +4,7 @@
 // Generated for e107 v2.x by the Multi-Language Plugin
 // https://github.com/e107inc/multilan
 
-define("LANMAILH_1", "Produsert av e107 nettstedet system");
+define("LANMAILH_1", "Produsert av e107 nettstedets system");
 define("LANMAILH_2", "Dette er en melding med flere deler i MIME-format.");
 define("LANMAILH_3", "er ikke riktig formatert");
 define("LANMAILH_4", "Avvist serveradresse");
