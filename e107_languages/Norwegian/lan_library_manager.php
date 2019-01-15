@@ -10,7 +10,7 @@
 +---------------------------------------------------------------+
 */
 define("LAN_LIBRARY_MANAGER_01", "'[x]' biblioteket, som '[y]' biblioteket er avhengig av, er ikke installert.");
-define("LAN_LIBRARY_MANAGER_02", "Versjonen '[x]' av '[y]' biblioteket er ikke kompatibel med '[z]' biblioteket.");
+define("LAN_LIBRARY_MANAGER_02", "Versjonen '[x]' av '[y]' biblioteket er ikke kompatibelt med '[z]' biblioteket.");
 define("LAN_LIBRARY_MANAGER_03", "'[x]' biblioteket ble ikke funnet.");
 define("LAN_LIBRARY_MANAGER_04", "Versjonen av '[x]' bibliotek kunne ikke påvises.");
 define("LAN_LIBRARY_MANAGER_05", "Den installerte versjonen '[x]' av '[y]' biblioteket støttes ikke.");
