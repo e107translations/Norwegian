@@ -13,6 +13,7 @@ define("LAN_DL_OPTIONS", "Alternativer");
 define("LAN_DL_DOWNLOAD_OPT_GENERAL", "Generelt");
 define("LAN_DL_DOWNLOAD_OPT_BROKEN", "Rapportering");
 define("LAN_DL_DOWNLOAD_OPT_AGREE", "Avtaler");
+define("LAN_DL_DOWNLOAD_OPT_SECURITY", "Beskyttelse");
 define("LAN_DL_UPLOAD", "Laste opp");
 define("LAN_DL_USE_PHP", "Bruk PHP");
 define("LAN_DL_USE_PHP_INFO", "Sjekke dette sender alle dataoverføre anmoder igjennom PHP");
@@ -41,7 +42,6 @@ define("DOWLAN_23", "Filtyper");
 define("DOWLAN_24", "Oppdatere Dataoverføre");
 define("DOWLAN_25", "Send inn nedlasting");
 define("DOWLAN_27", "Last ned");
-define("DOWLAN_28", "Ingen");
 define("DOWLAN_29", "Forespurt");
 define("DOWLAN_31", "Kategorier");
 define("DOWLAN_32", "Nedlastinger");
@@ -147,6 +147,13 @@ define("DOWLAN_HELP_7", "Hjelp for speil");
 define("DOWLAN_HELP_8", "Hjelp for opplastingslisten");
 define("DOWLAN_HELP_9", "Hjelp for opplasting typer");
 define("DOWLAN_HELP_10", "Hjelp for opplasting alternativer");
-
-
-?>
+define("LAN_DL_SECURITY_DESCRIPTION", "Nedlastinger kan benytte serverbeskyttelsesfunksjoner for å forhindre hotlinking og / eller håndheve koblingsutløp. Msgstr ." ."Denne delen skal konfigureres før nedlastingsserveren er konfigurert for å redusere sjansen for avbrudd for nedlastere.");
+define("LAN_DL_SECURITY_MODE", "URL protection mode");
+define("LAN_DL_SECURITY_MODE_NONE", "Ingen (Standard)");
+define("LAN_DL_SECURITY_MODE_NGINX_SECURELINKMD5", "NGINX secure_link_md5");
+define("LAN_DL_SECURITY_NGINX_SUPPORTED_VARIABLES_TOGGLE", "Klikk for liste over støttede NGINX-variabler");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION", "<a target='_blank' href='https://nginx.org/en/docs/http/ngx_http_secure_link_module.html#secure_link_md5'>NGINX secure_link_md5 expression</a>");
+define("LAN_DL_SECURITY_NGINX_SECURELINKMD5_EXPRESSION_HELP", "Samme uttrykk som konfigurert på serveren");
+define("LAN_DL_SECURITY_LINK_EXPIRY", "Varighet av gyldighet i sekunder");
+define("LAN_DL_SECURITY_LINK_EXPIRY_HELP", "Antall sekunder som nedlastingskoblingen skulle vare etter å ha blitt generert."."
+Bare effektiv hvis uttrykket støtter utløpstid. ". "Standard i svært lang tid hvis dette feltet er tomt.");
