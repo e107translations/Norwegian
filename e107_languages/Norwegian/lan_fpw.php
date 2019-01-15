@@ -36,5 +36,5 @@ define("LAN_FPW19", "E-post sende mislyktes");
 define("LAN_FPW20", "E-post sende lyktes");
 define("LAN_FPW21", "Brukeren klikket på passord kobling");
 define("LAN_FPW_100", "Har du glemt passordet?");
-define("LAN_FPW_101", "Ikke bekymre deg. Skriv inn bare epostadressen din nedenfor og vi vil sende deg en instruksjon email for gjenoppretting.");
+define("LAN_FPW_101", "Ikke bekymre deg. Skriv bare inn epostadressen din nedenfor og vi vil sende deg en instruksjon email for gjenoppretting.");
 define("LAN_FPW_102", "Tilbakestill passord");
